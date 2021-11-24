@@ -12,5 +12,7 @@
 ### Data
 -   Dataset for this problem was extracted from MIMIC- III dataset
 
-### python etl_mortality_data.py  (pre-processing )
-### python train_variable_rnn.py (RNN modeling)
+### pre-processing
+- python etl_mortality_data.py 
+### RNN modeling
+- python train_variable_rnn.py
